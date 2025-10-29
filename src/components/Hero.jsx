@@ -23,6 +23,6 @@ const Hero = ({title = "Become a React Dev",
 
   );
 
-}
+};
 
-export default Hero
+export default Hero;
