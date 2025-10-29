@@ -14,7 +14,7 @@ const HomeCards = () => {
         <div className="bg-gray-100 p-6 rounded-lg shadow-md">
             <h2 className="text-2xl font-bold">For Developers</h2>
             <p className="mt-2 mb-4">
-              Browse our React jobs and start your career today
+              Browse Available React jobs and start your career today
             </p>
             <Link
             to="/jobs"
@@ -49,4 +49,4 @@ const HomeCards = () => {
 )
 }
 
-export default HomeCards
+export default HomeCards;
